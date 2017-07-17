@@ -1,4 +1,4 @@
-package cn.rusth.controller;
+package cn.rusth.testController;
 
 import cn.rusth.dao.UserDao;
 import cn.rusth.entity.User;
