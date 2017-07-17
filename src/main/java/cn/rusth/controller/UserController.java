@@ -17,8 +17,8 @@ public class UserController {
     @Autowired
     private UserDao userDao;
 
-    @RequestMapping(value = "/cs")
-    public User cs() {
+    @RequestMapping(value = "/baseTest")
+    public User baseTest() {
         //调用dao层
         User user = userDao.selectByPrimaryKey(1);
         return user;
