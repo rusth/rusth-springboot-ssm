@@ -1,4 +1,4 @@
-##thymeleaf模板使用说明
+## thymeleaf模板使用说明
 使用thymeleaf模板时，比较通用比较简单。  
  
 *  pom.xml中配置引用包
